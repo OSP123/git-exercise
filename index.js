@@ -19,3 +19,9 @@ function addThings(num1, num2) {
 }
 
 addThings(1,2);
+
+function ninetyEightDegrees(AreWeCool) {
+    return AreWeCool;
+}
+
+ninetyEightDegrees("no");
