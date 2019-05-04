@@ -1,9 +1,9 @@
 
 
 describe('War Hammer 46k', () => {
-  it('should be better than 45k', () => {
+  it('should be better than 40k', () => {
     let fourtySix = 46000;
-    let fourtyFive = 45000;
-    expect(fourtySix).to.be.above(fourtyFive);
+    let fourty = 40000;
+    expect(fourtySix).to.be.above(fourty);
   })
 })
