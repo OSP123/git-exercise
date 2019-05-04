@@ -7,3 +7,15 @@ function SpiceGirls(WhatIWant) {
 var myLovah = SpiceGirls("Be my Lovah");
 
 console.log(myLovah);
+
+function isBackStreetBack(neverAsk) {
+    return neverAsk;
+}
+
+isBackStreetBack("YES");
+
+function addThings(num1, num2) {
+    return num1 + num2;
+}
+
+addThings(1,2);
